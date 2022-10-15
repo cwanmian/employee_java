@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: ccwme
+    password: cwm1134128812
+    url: jdbc:mysql://localhost:3306/employees
+  web:
+    resources:
+      static-locations: file:D:\react-stu\safeplatformlogin\build\,file:D:\react-stu\safeplatform\build,file:D:\IdeaJAVA\bugmanager_filepath\
+filespath: D:\IdeaJAVA\employeesmanager_filepath\
