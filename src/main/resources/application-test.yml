@@ -6,5 +6,5 @@ spring:
     url: jdbc:mysql://localhost:3306/employees
   web:
     resources:
-      static-locations: file:D:\react-stu\safeplatformlogin\build\,file:D:\react-stu\safeplatform\build,file:D:\IdeaJAVA\bugmanager_filepath\
-filespath: D:\IdeaJAVA\employeesmanager_filepath\
+      static-locations: file:F:\project\webstorm\employeemanager\build\,file:F:\project\webstorm\employeemanagerlogin\build\,file:F:\project\IDEAjavaProject\employeesmanager_filepath\
+filespath: F:\project\IDEAjavaProject\employeesmanager_filepath\
